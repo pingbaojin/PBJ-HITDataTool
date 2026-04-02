@@ -1,0 +1,77 @@
+antlever:
+- 0.0
+- 0.0
+- 0.0
+endtime: -1
+gnsspath: /home/pbj/docker_ws/data/2025-03-27-car1/2025-03-27-16-11-22/GNSS-RTK2025-03-27-16-11-22.txt
+imudatalen: 7
+imudatarate: 100
+imunoise:
+  abstd:
+  - 15.0
+  - 15.0
+  - 15.0
+  arw:
+  - 0.003
+  - 0.003
+  - 0.003
+  asstd:
+  - 300.0
+  - 300.0
+  - 300.0
+  corrtime: 4.0
+  gbstd:
+  - 0.027
+  - 0.027
+  - 0.027
+  gsstd:
+  - 300.0
+  - 300.0
+  - 300.0
+  vrw:
+  - 0.03
+  - 0.03
+  - 0.03
+imupath: /home/pbj/docker_ws/data/2025-03-27-car1/2025-03-27-16-11-22/IMU2025-03-27-16-11-22.txt
+initaccbias:
+- 0
+- 0
+- 0
+initaccscale:
+- 0
+- 0
+- 0
+initatt:
+- -0.08363215796990096
+- -1.2402142297768646
+- 146.68213079461674
+initattstd:
+- 0.003
+- 0.003
+- 0.023
+initgyrbias:
+- 0
+- 0
+- 0
+initgyrscale:
+- 0
+- 0
+- 0
+initpos:
+- 45.730518170506926
+- 126.62869907292941
+- 0.010402640330233295
+initposstd:
+- 0.005
+- 0.004
+- 0.008
+initvel:
+- 0.0
+- 0.0
+- 0.0
+initvelstd:
+- 0.003
+- 0.004
+- 0.004
+outputpath: /home/pbj/docker_ws/data/2025-03-27-car1/2025-03-27-16-11-22
+starttime: 1743063083

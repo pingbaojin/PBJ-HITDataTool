@@ -1,0 +1,6 @@
+# fastlio_path: /home/mars_ugv/docker_ws/
+fastlio_path: /docker_ws/ubuntu20_04/data/HIT/
+ubuntu24.04_path: /home/pbj/docker_ws/ubuntu20_04/data/HIT/
+
+bagdir: 2025-04-18-car1
+bag_name: 2025-04-18-13-30-35
