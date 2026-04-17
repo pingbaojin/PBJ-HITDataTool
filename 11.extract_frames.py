@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+扫描一个 bag 里各话题的 header.frame_id，并打印一个静态 TF launch 模板建议。
+
+输入：一个 bag 文件
+输出：一个静态 TF launch 模板建议
+"""
 
 import rosbag
 import sys

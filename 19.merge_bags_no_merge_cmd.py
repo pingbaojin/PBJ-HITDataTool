@@ -1,3 +1,8 @@
+"""
+把原始 bag 和 TF bag 合并成一个新 bag，并只保留指定话题。
+"""
+
+
 import rosbag
 import os
 import yaml

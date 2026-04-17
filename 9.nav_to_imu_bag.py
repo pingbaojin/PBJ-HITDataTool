@@ -14,7 +14,9 @@
 输出: 转换到 ROS 默认世界系 ENU 后的四元数
 
 个人理解：正东为0度，逆时针为正
-"""
+
+把 nav 姿态“生成为新 IMU 话题 bag（弃用，后面转为tf）
+""" 
 
 import math
 import os

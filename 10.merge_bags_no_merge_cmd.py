@@ -1,3 +1,8 @@
+"""
+把这个新 IMU bag 和原始传感器 bag 合并成一个可直接用的总 bag（弃用）
+"""
+
+
 import rosbag
 import os
 import yaml
